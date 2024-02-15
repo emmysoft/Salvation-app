@@ -15,7 +15,7 @@ const John1513 = () => {
                 Greater love hath no man than this, that a man lay down his life for his friends.
             </Text>
             <Text style={tw.style({ fontFamily: 'Dance' }, 'text-3xl text-[#fc5457] text-center')}>
-                PS: "The greatest proof of love for anyone or anything is death. JESUS died for you and I 🥹"
+                PS: "The greatest proof of love for anyone or anything is dying for them. JESUS died for you and I 🥹"
             </Text>
             <TouchableOpacity style={tw`flex flex-row justify-center items-center gap-5 px-4 py-2 border-2 border-[#fc5457] rounded-lg`} onPress={() => navigation.navigate("Third Scripture")}>
                 <Text style={tw`text-xl text-center text-[#fc5457]`}>Next</Text>
